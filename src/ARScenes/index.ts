@@ -1,0 +1,1 @@
+export {AnimatedPosterAR} from './AnimatedPoster';
